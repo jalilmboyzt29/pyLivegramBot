@@ -6,7 +6,7 @@
 start = "Hello! Terimakasih sudah menghubungi kami melalui Bot CS ini, apa yang dapat kami bantu? 🙏!"
 ban = "you were banned by the admin!"
 unban = "you were unbanned by the admin."
-#text_message = "Message that would be send if somebody writes any text"
+text_message = ""
 banned = "you are blocked"
 main_id = -1001324718011 #id without quotes #can be group id REMEMBER!: SUPERGROUP ID BEGINS WITH MINUS
 TOKEN = "2115557828:AAEV64DUFLP3arr7xtfwjoE8lbBFYLJMIWc"
